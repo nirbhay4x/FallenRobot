@@ -74,7 +74,8 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴇʏ\n ɪ'ᴍ *ᴀɴᴏɴʏᴍᴏᴜs​ ʀᴏʙᴏᴛ*\nᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ\n  ɪ ʜᴀᴠᴇ ᴀᴡᴇsᴏᴍᴇ ꜰᴇᴀᴛᴜʀᴇs ᴀɴᴅ ɴᴏ ᴏɴᴇ ᴄᴀɴ ʙᴇᴀᴛ ᴍᴇ ꜰᴏʀ ɢᴇᴛᴛɪɴɢ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs /help
+ʜᴇʏ\n ɪ'ᴍ *ֆǟʀӄǟʀ ʀօɮօȶ*\nᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ\n .
+ ɪ ʜᴀᴠᴇ ᴀᴡᴇsᴏᴍᴇ ꜰᴇᴀᴛᴜʀᴇs ᴀɴᴅ ɴᴏ ᴏɴᴇ ᴄᴀɴ ʙᴇᴀᴛ ᴍᴇ ꜰᴏʀ ɢᴇᴛᴛɪɴɢ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs /help
 """
 
 buttons = [
@@ -88,14 +89,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🤔 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🤔", url="https://t.me/anonymous_was_bot"),
+            text="🤔 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🤔", url="https://t.me/sarkar_network"),
         InlineKeyboardButton(
-            text="😘 sᴜᴘᴘᴏʀᴛ 😘", url="https://t.me/DevilsHeavenMF"
+            text="😘 sᴜᴘᴘᴏʀᴛ 😘", url="https://t.me/yaari_apni_apni"
         ),
     ],
 ]
 
-FallenRobot_IMG = "https://telegra.ph/file/93b08120e36d096cd21ca.jpg"
+FallenRobot_IMG = "https://te.legra.ph/file/ab3acc65de7d85857d595.jpg"
 
 HELP_STRINGS = """
 *ᴀɴᴏɴʏᴍᴏᴜs​ ʀᴏʙᴏᴛ ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs\n ᴄʜᴇᴄᴋᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs\n» ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ / ᴏʀ !\n» ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ɪssᴜᴇ ᴏʀ ʙᴜɢ ɪɴ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ @DevilsHeavenMF*"""
